@@ -1,3 +1,4 @@
+### HAS ERRORS, BUT I WILL BE GLAD TO HELP CORRECT THEM ###
 Converting text to 8-bit BrainFuck code using the text2bf method. Generated code may be longer than the minimum possible
 Exemples:
 
