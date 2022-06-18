@@ -1,8 +1,8 @@
-def divisorGen(n):
-    v = n; last = []
+def divisorsGen(n):
+    list = []
     for i in range(1, v+1):
-        if n % i == 0 : last.append(i)
-    return last
+        if n % i == 0 : list.append(i)
+    return list
 
 def text2bf(text):
     bf_code = ""
